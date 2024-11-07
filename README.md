@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshat Sharma
-- 👀 I’m interested in RaspberryPi 5
 - 💞️ I’m looking for collab. on My Page
+- 👀 I’m interested in: RaspberryPi 5
 - 🌱 I’m currently learning: DevSecOps
 - 📫 How to reach me: Text Me @insta/fb/WhatsApp
 - ⚡ Fun fact: i'm poor
